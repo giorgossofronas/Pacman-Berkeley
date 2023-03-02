@@ -6,5 +6,5 @@
 
 My solutions to the Pacman Projects 1, 2 &amp; 3 of UC-Berkeley. Each project's solution can be found at the corresponding directory.
 * [Project 1: Search](https://inst.eecs.berkeley.edu/~cs188/sp22/project1/)
-* [Project 2: Multi-Agent Search](https://inst.eecs.berkeley.edu/~cs188/sp22/project2/)
-* [Project 3: Logic and Classical Planning](https://inst.eecs.berkeley.edu/~cs188/sp22/project3/)
+* [Project 2: Multiagent](https://inst.eecs.berkeley.edu/~cs188/sp22/project2/)
+* [Project 3: Logic](https://inst.eecs.berkeley.edu/~cs188/sp22/project3/)
