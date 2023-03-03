@@ -1,7 +1,7 @@
 <h1 align="center">Pacman-Berkeley</h1>
 
 <p align="center">
-    <img src="pacman.gif" width=750>
+    <img src="pacman.gif" width=700>
 </p>
 
 <p align="center">
